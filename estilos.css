@@ -1,0 +1,2413 @@
+div#contenedor{
+	background-color: transparent;
+	width: 1300px;
+	height: 1200px;
+	margin: auto;
+}
+
+div#encabezado{
+	background-color: whitesmoke;
+	width: all;
+	height: 125px;
+	display: flex;
+}
+
+div#logo{
+	margin: -115px 1100px;
+}
+
+h1{
+	color: black;
+	font-size: 15px;
+	margin: 40px;
+}
+
+h1:hover{
+	color: deeppink;
+}
+
+div#menuComida{
+	background-color: transparent;
+	width: 70px;
+	height: 20px;
+	margin: 60px 670px;
+}
+
+div#promociones{
+	background-color: transparent;
+	width: 70px;
+	height: 20px;
+	margin: -80px 770px;
+}
+
+div#galeria{
+	background-color: transparent;
+	width: 70px;
+	height: 20px;
+	margin: 60px 905px;
+}
+
+div#sushiwa{
+	background-color:transparent;
+	width: 145px;
+	height: 50px;
+	margin: 90px 160px;
+	color: deeppink;
+	font-size: 25px;
+}
+
+div#sushiComida{
+	background-color:transparent;
+	width: 250px;
+	height: 20px;
+	margin: -90px 120px;
+}
+
+div#inicioImagen{
+	margin: 140px 130px;
+}
+
+div#visita{
+	background-color: lightpink;
+	width: 300px;
+	height: 55px;
+	margin: -615px 910px;
+}
+
+
+div#visita:hover{
+	background-color: whitesmoke;
+}
+
+
+div#registrate{
+	background-color: lightpink;
+	width: 300px;
+	height: 55px;
+	margin: 615px 910px;
+}
+
+div#registrate:hover{
+	background-color: whitesmoke;
+}
+
+div#calificaciones{
+	background-color: lightpink;
+	width: 300px;
+	height: 55px;
+	margin: -615px 910px;
+}
+
+div#calificaciones:hover{
+	background-color: whitesmoke;
+}
+
+
+div#favoritos{
+	background-color: lightpink;
+	width: 300px;
+	height: 55px;
+	margin: 615px 910px;
+}
+
+div#favoritos:hover{
+	background-color: whitesmoke;
+}
+
+div#rosa{
+	margin: -545px 906px;
+}
+
+div#pie{
+	background-color: whitesmoke;
+	width: 1300px;
+	height: 125px;
+	margin: 690px 1px;
+}
+
+div#circuloUno{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: -783px 125px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloUno:hover{
+	background-color: deeppink;
+}
+
+div#circuloDos{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: 732px 226px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloDos:hover{
+	background-color: deeppink;
+}
+
+div#circuloTres{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: -780px 327px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloTres:hover{
+	background-color: deeppink;
+}
+
+div#twitter{
+	margin: 737px 137px;
+	width: 50px;
+	height: 50px;
+}
+
+div#facebook{
+	margin: -785px 238px;
+	width: 50px;
+	height: 50px;
+}
+
+div#gmail{
+	margin: 737px 342px;
+	width: 50px;
+	height: 50px;
+}
+
+div#nosotros{
+	width: 180px;
+	height: 30px;
+	margin: 860px 580px;
+	color: deeppink;
+	font-size: 10px;
+}
+
+div#sucursales{
+	background-color:whitesmoke;
+	width: 230px;
+	height: 30px;
+	margin: -855px 540px;
+}
+
+div#empleos{
+	background-color:whitesmoke;
+	width: 230px;
+	height: 30px;
+	margin: 850px 540px;
+}
+
+div#karen{
+	background-color:whitesmoke;
+	width: 130px;
+	height: 50px;
+	margin: -810px 920px;
+	color: deeppink;
+	font-size: 15px;
+}
+
+div#materia{
+	background-color:whitesmoke;
+	width: 230px;
+	height: 50px;
+	margin: 800px 880px;
+}
+
+div#fes{
+	margin: -900px 1130px;
+	width: 50px;
+	height: 50px;
+}
+
+
+
+
+
+
+div#principal{
+	background-color: transparent;
+	width: 70px;
+	height: 20px;
+	margin: 60px 650px;
+}
+
+div#menu{
+	background-color:white;
+	width: 260px;
+	height: 50px;
+	margin: 90px 100px;
+	color: deeppink;
+	font-size: 25px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+h3{
+	color: black;
+	font-size: 20px;
+}
+
+ 
+
+div#entradas{
+	background-color:white;
+	width: 90px;
+	height: 20px;
+	margin: -70px 600px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+div#ikaImg{
+	margin: 75px -10px;
+}
+
+div#cIka{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -280px 250px;
+}
+
+h4{
+	color: black;
+	font-size: 20px;
+	margin: 40px;
+}
+
+div#ika{
+	background-color: lightpink;
+	width: 205px;
+	height: 20px;
+	margin: 80px 300px;
+}
+
+h5{
+	color: black;
+	font-size: 16px;
+}
+
+div#desIka{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -30px 300px;
+}
+
+div#tostadasImg{
+	margin: -202px 650px;
+}
+
+div#cTostadas{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -219px 925px;
+}
+
+div#tostadas{
+	background-color: lightpink;
+	width: 300px;
+	height: 20px;
+	margin: -240px 925px;
+}
+
+div#desTostadas{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 290px 975px;
+}
+
+div#doragonImg{
+	margin: -220px -10px;
+}
+
+div#cDoragon{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 0px 250px;
+}
+
+div#doragon{
+	background-color: lightpink;
+	width: 250px;
+	height: 20px;
+	margin: -240px 275px;
+}
+
+
+div#desDoragon{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 290px 300px;
+}
+
+div#remonImg{
+	margin: -480px 670px;
+}
+
+div#cRemon{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 255px 925px;
+}
+
+div#remon{
+	background-color: lightpink;
+	width: 225px;
+	height: 20px;
+	margin: -454px 964px;
+}
+
+div#desRemon{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 490px 975px;
+}
+
+div#ensaladas{
+	background-color:white;
+	width: 95px;
+	height: 20px;
+	margin: -400px 600px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+div#koshoImg{
+	margin: 400px -20px;
+}
+
+div#cKosho{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -645px 250px;
+}
+
+div#kosho{
+	background-color: lightpink;
+	width: 195px;
+	height: 20px;
+	margin: 445px 300px;
+}
+
+
+div#desKosho{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -410px 300px;
+}
+
+div#zerikkuImg{
+	margin: 210px 645px;
+}
+
+div#cZerikku{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -430px 925px;
+}
+
+div#zerikku{
+	background-color: lightpink;
+	width: 225px;
+	height: 20px;
+	margin: 230px 964px;
+}
+
+div#desZerikku{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -190px 975px;
+}
+
+
+div#kushiage{
+	background-color:white;
+	width: 95px;
+	height: 20px;
+	margin: 280px 600px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+div#toketaImg{
+	margin: -280px -5px;
+}
+
+div#cToketa{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 70px 250px;
+}
+
+div#toketa{
+	background-color: lightpink;
+	width: 195px;
+	height: 20px;
+	margin: -270px 300px;
+}
+
+
+div#desToketa{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 310px 300px;
+}
+
+div#otokoImg{
+	margin: -510px 670px;
+}
+
+div#cOtoko{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 300px 925px;
+}
+
+div#otoko{
+	background-color: lightpink;
+	width: 195px;
+	height: 20px;
+	margin: -500px 974px;
+}
+
+div#desOtoko{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 540px 975px;
+}
+
+div#ebiImg{
+	margin: -470px -5px;
+}
+
+div#cEbi{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 250px 250px;
+}
+
+div#ebi{
+	background-color: lightpink;
+	width: 165px;
+	height: 20px;
+	margin: -450px 320px;
+}
+
+
+div#desEbi{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 480px 300px;
+}
+
+div#kurimuImg{
+	margin: -675px 670px;
+}
+
+div#cKurimu{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 470px 925px;
+}
+
+div#kurimu{
+	background-color: lightpink;
+	width: 200px;
+	height: 20px;
+	margin: -670px 974px;
+}
+
+div#desKurimu{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 700px 975px;
+}
+
+
+div#arroz{
+	background-color:white;
+	width: 65px;
+	height: 20px;
+	margin: -610px 600px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+div#gohanImg{
+	margin: 620px -50px;
+}
+
+div#cGohan{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -880px 250px;
+}
+
+div#gohan{
+	background-color: lightpink;
+	width: 195px;
+	height: 20px;
+	margin: 680px 300px;
+}
+
+
+div#desGohan{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -640px 300px;
+}
+
+div#atunImg{
+	margin: 435px 660px;
+}
+
+div#cAtun{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -668px 925px;
+}
+
+div#atun{
+	background-color: lightpink;
+	width: 235px;
+	height: 20px;
+	margin: 468px 959px;
+}
+
+div#desAtun{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -430px 975px;
+}
+
+div#salmonImg{
+	margin: 480px -20px;
+}
+
+div#cSalmon{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -700px 250px;
+}
+
+div#salmon{
+	background-color: lightpink;
+	width: 273px;
+	height: 20px;
+	margin: 500px 265px;
+}
+
+
+div#desSalmon{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -460px 300px;
+}
+
+div#yakimeshiImg{
+	margin: 255px 660px;
+}
+
+div#cYakimeshi{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -472px 925px;
+}
+
+div#yakimeshi{
+	background-color: lightpink;
+	width: 235px;
+	height: 20px;
+	margin: 272px 959px;
+}
+
+div#desYakimeshi{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -230px 975px;
+}
+
+
+div#ramen{
+	background-color:white;
+	width: 75px;
+	height: 20px;
+	margin: 340px 600px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+div#umiImg{
+	margin: -360px -1px;
+}
+
+div#cUmi{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 160px 250px;
+}
+
+div#umi{
+	background-color: lightpink;
+	width: 180px;
+	height: 20px;
+	margin: -360px 305px;
+}
+
+
+div#desUmi{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 400px 300px;
+}
+
+div#toriImg{
+	margin: -600px 690px;
+}
+
+div#cTori{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 392px 925px;
+}
+
+div#tori{
+	background-color: lightpink;
+	width: 180px;
+	height: 20px;
+	margin: -592px 987px;
+}
+
+div#desTori{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 630px 975px;
+}
+
+div#sutekiImg{
+	margin: -580px -1px;
+}
+
+div#cSuteki{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 380px 250px;
+}
+
+div#suteki{
+	background-color: lightpink;
+	width: 200px;
+	height: 20px;
+	margin: -580px 305px;
+}
+
+
+div#desSuteki{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 620px 300px;
+}
+
+div#kotsuImg{
+	margin: -820px 685px;
+}
+
+div#cKotsu{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 625px 925px;
+}
+
+div#kotsu{
+	background-color: lightpink;
+	width: 195px;
+	height: 20px;
+	margin: -825px 980px;
+}
+
+div#desKotsu{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 860px 975px;
+}
+
+
+
+div#sushi{
+	background-color:white;
+	width: 65px;
+	height: 20px;
+	margin: -760px 600px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+div#supaikuImg{
+	margin: 780px -1px;
+}
+
+div#cSupaiku{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -965px 250px;
+}
+
+div#supaiku{
+	background-color: lightpink;
+	width: 215px;
+	height: 20px;
+	margin: 765px 295px;
+}
+
+
+div#desSupaiku{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -720px 300px;
+}
+
+div#otosanImg{
+	margin: 540px 675px;
+}
+
+div#cOtosan{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -755px 925px;
+}
+
+div#otosan{
+	background-color: lightpink;
+	width: 205px;
+	height: 20px;
+	margin: 555px 975px;
+}
+
+div#desOtosan{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -510px 975px;
+}
+
+div#catalinaImg{
+	margin: 550px -1px;
+}
+
+div#cCatalina{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -750px 250px;
+}
+
+div#catalina{
+	background-color: lightpink;
+	width: 215px;
+	height: 20px;
+	margin: 550px 295px;
+}
+
+div#desCatalina{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -500px 300px;
+}
+
+div#misyelImg{
+	margin: 290px 685px;
+}
+
+div#cMisyel{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -495px 925px;
+}
+
+div#misyel{
+	background-color: lightpink;
+	width: 205px;
+	height: 20px;
+	margin: 295px 975px;
+}
+
+div#desMisyel{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -250px 975px;
+}
+
+div#nahongImg{
+	margin: 295px -1px;
+}
+
+div#cNahong{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -490px 250px;
+}
+
+div#nahong{
+	background-color: lightpink;
+	width: 215px;
+	height: 20px;
+	margin: 290px 295px;
+}
+
+div#desNahong{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -250px 300px;
+}
+
+div#balleliaImg{
+	margin: 40px 685px;
+}
+
+div#cBallelia{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -235px 925px;
+}
+
+div#ballelia{
+	background-color: lightpink;
+	width: 205px;
+	height: 20px;
+	margin: 0px 975px;
+}
+
+div#desBallelia{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -5px 975px;
+}
+
+div#raitoImg{
+	margin: 75px -1px;
+}
+
+div#cRaito{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -260px 250px;
+}
+
+div#raito{
+	background-color: lightpink;
+	width: 215px;
+	height: 20px;
+	margin: 60px 295px;
+}
+
+div#desRaito{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -20px 300px;
+}
+
+div#migeruImg{
+	margin:-200px 685px;
+}
+
+div#cMigeru{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 25px 925px;
+}
+
+div#migeru{
+	background-color: lightpink;
+	width: 205px;
+	height: 20px;
+	margin: -240px 975px;
+}
+
+div#desMigeru{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 290px 975px;
+}
+
+div#dangguiImg{
+	margin: -240px 15px;
+}
+
+div#cDanggui{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 45px 250px;
+}
+
+div#danggui{
+	background-color: lightpink;
+	width: 215px;
+	height: 20px;
+	margin: -245px 295px;
+}
+
+div#desDanggui{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 290px 300px;
+}
+
+div#yuanImg{
+	margin:-490px 685px;
+}
+
+div#cYuan{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 305px 925px;
+}
+
+div#yuan{
+	background-color: lightpink;
+	width: 245px;
+	height: 20px;
+	margin: -505px 955px;
+}
+
+div#desYuan{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 560px 975px;
+}
+
+div#bebidas{
+	background-color:white;
+	width: 80px;
+	height: 20px;
+	margin: -480px 600px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+div#calpiImg{
+	margin: 500px -30px;
+}
+
+div#cCalpi{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -690px 250px;
+}
+
+div#calpi{
+	background-color: lightpink;
+	width: 180px;
+	height: 20px;
+	margin: 490px 305px;
+}
+
+div#desCalpi{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -430px 300px;
+}
+
+div#piñaImg{
+	margin: 210px 650px;
+}
+
+div#cPiña{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -410px 925px;
+}
+
+div#piña{
+	background-color: lightpink;
+	width: 245px;
+	height: 20px;
+	margin: 210px 955px;
+}
+
+div#desPiña{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -150px 975px;
+}
+
+div#limonadaImg{
+	margin: 200px 25px;
+}
+
+div#cLimonada{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -375px 250px;
+}
+
+div#limonada{
+	background-color: lightpink;
+	width: 220px;
+	height: 20px;
+	margin: 175px 295px;
+}
+
+div#desLimonada{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -110px 300px;
+}
+
+div#naranjadaImg{
+	margin: -200px 700px;
+}
+
+div#cNaranjada{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 20px 925px;
+}
+
+div#naranjada{
+	background-color: lightpink;
+	width: 245px;
+	height: 20px;
+	margin: -240px 955px;
+}
+
+div#desNaranjada{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 310px 975px;
+}
+
+
+div#jamaicaImg{
+	margin: -260px -40px;
+}
+
+div#cJamaica{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 70px 250px;
+}
+
+div#jamaica{
+	background-color: lightpink;
+	width: 270px;
+	height: 20px;
+	margin: -270px 265px;
+}
+
+div#desJamaica{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 330px 300px;
+}
+
+div#horchataImg{
+	margin: -550px 620px;
+}
+
+div#cHorchata{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: 345px 925px;
+}
+
+div#horchata{
+	background-color: lightpink;
+	width: 245px;
+	height: 20px;
+	margin: -545px 955px;
+}
+
+div#desHorchata{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 610px 975px;
+}
+
+
+div#postres{
+	background-color:white;
+	width: 75px;
+	height: 20px;
+	margin: -540px 600px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+
+div#cameladoImg{
+	margin: 535px -5px;
+}
+
+div#cCamelado{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -740px 250px;
+}
+
+div#camelado{
+	background-color: lightpink;
+	width: 230px;
+	height: 20px;
+	margin: 540px 285px;
+}
+
+div#desCamelado{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -470px 300px;
+}
+
+div#ringoImg{
+	margin: 240px 690px;
+}
+
+div#cRingo{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -445px 925px;
+}
+
+div#ringo{
+	background-color: lightpink;
+	width: 205px;
+	height: 20px;
+	margin: 245px 970px;
+}
+
+div#desRingo{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -190px 975px;
+}
+
+div#cheeseImg{
+	margin: 235px -5px;
+}
+
+div#cCheese{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -440px 250px;
+}
+
+div#cheese{
+	background-color: lightpink;
+	width: 240px;
+	height: 20px;
+	margin: 240px 275px;
+}
+
+div#desCheese{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -170px 300px;
+}
+
+div#miniImg{
+	margin: -210px 680px;
+}
+
+div#cMini{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -145px 925px;
+}
+
+div#mini{
+	background-color: lightpink;
+	width: 260px;
+	height: 20px;
+	margin: -240px 950px;
+}
+
+div#desMini{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: 300px 975px;
+}
+
+
+
+div#paquetes{
+	background-color:white;
+	width: 90px;
+	height: 20px;
+	margin: -220px 600px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+
+div#natsuImg{
+	margin: 280px -75px;
+}
+
+div#cNatsu{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -500px 250px;
+}
+
+div#natsu{
+	background-color: lightpink;
+	width: 210px;
+	height: 20px;
+	margin: 300px 295px;
+}
+
+div#desNatsu{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -240px 300px;
+}
+
+div#sanruisuImg{
+	margin: -210px 650px;
+}
+
+div#cSanruisu{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -270px 925px;
+}
+
+div#sanruisu{
+	background-color: lightpink;
+	width: 245px;
+	height: 20px;
+	margin: 70px 955px;
+}
+
+div#desSanruisu{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -30px 975px;
+}
+
+
+div#marutinesuImg{
+	margin: 90px -55px;
+}
+
+div#cMarutinesu{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -320px 250px;
+}
+
+div#marutinesu{
+	background-color: lightpink;
+	width: 245px;
+	height: 20px;
+	margin: 120px 275px;
+}
+
+div#desMarutinesu{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -70px 300px;
+}
+
+div#trunksImg{
+	margin: -210px 680px;
+}
+
+div#cTrunks{
+	background-color: white;
+	width: 300px;
+	height: 200px;
+	margin: -270px 925px;
+}
+
+div#trunks{
+	background-color: lightpink;
+	width: 245px;
+	height: 20px;
+	margin: 70px 955px;
+}
+
+div#desTrunks{
+	background-color: white;
+	width: 205px;
+	height: 100px;
+	margin: -30px 975px;
+}
+
+div#pieDos{
+	background-color: whitesmoke;
+	width: 1300px;
+	height: 125px;
+	margin: 220px 1px;
+}
+
+div#circuloCuatro{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: -305px 125px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloCuatro:hover{
+	background-color: deeppink;
+}
+
+div#circuloCinco{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: 255px 226px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloCinco:hover{
+	background-color: deeppink;
+}
+
+div#circuloSeis{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: -305px 327px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloSeis:hover{
+	background-color: deeppink;
+}
+
+div#twitterDos{
+	margin: 265px 137px;
+	width: 50px;
+	height: 50px;
+
+}
+
+div#facebookDos{
+	margin: -315px 238px;
+	width: 50px;
+	height: 50px;
+}
+
+div#gmailDos{
+	margin: 265px 342px;
+	width: 50px;
+	height: 50px;
+}
+
+div#uso{
+	background-color:whitesmoke;
+	width: 430px;
+	margin: -335px 480px;
+}
+
+div#itto{
+	background-color: whitesmoke;
+	width: 500px;
+	margin: 360px 480px; 
+}
+
+div#karenDos{
+	background-color:whitesmoke;
+	width: 130px;
+	margin: -420px 920px;
+	color: deeppink;
+	font-size: 15px;
+}
+
+div#materiaDos{
+	background-color:whitesmoke;
+	width: 310px;
+	margin: 440px 880px;
+}
+
+div#fesDos{
+	margin: -510px 1130px;
+}
+
+
+
+
+
+
+div#principalDos{
+	background-color: transparent;
+	width: 70px;
+	height: 20px;
+	margin: -80px 770px;
+}
+
+div#promocionesDos{
+	background-color:transparent;
+	width: 205px;
+	height: 50px;
+	margin: 90px 160px;
+	color: deeppink;
+	font-size: 25px;
+}
+
+
+div#cLunes{
+	background-color: lightpink;
+	width: 1040px;
+	height: 250px;
+	margin: -50px 140px;
+}
+
+
+div#lunesImg{
+	margin: -237px 150px;
+}
+
+div#lunes{
+	background-color: lightpink;
+	width: 400px;
+	margin: -300px 715px;
+}
+
+h6{
+	font-size: 40px;
+}
+
+h6:hover{
+	font-size: 45px;
+	color: deeppink;
+}
+
+div#lunesDes{
+	background-color: lightpink;
+	width: 300px;
+	margin: 360px 720px;
+	font-size: 15px;
+}
+
+div#cMartes{
+	background-color: white;
+	width: 1040px;
+	height: 250px;
+	margin: -300px 140px;
+}
+
+div#martesImg{
+	margin: 65px 770px;
+}
+
+div#martes{
+	background-color: transparent;
+	width: 400px;
+	margin: -300px 300px;
+}
+
+div#martesDes{
+	background-color: transparent;
+	width: 300px;
+	margin: 360px 300px;
+	font-size: 15px;
+}
+
+div#cMiercoles{
+	background-color: lightpink;
+	width: 1040px;
+	height: 250px;
+	margin: -300px 140px;
+}
+
+div#miercolesImg{
+	margin: 55px 150px;
+}
+
+div#miercoles{
+	background-color: transparent;
+	width: 400px;
+	margin: -300px 715px;
+}
+
+div#miercolesDes{
+	background-color: transparent;
+	width: 300px;
+	margin: 360px 720px;
+	font-size: 15px;
+}
+
+div#cJueves{
+	background-color: white;
+	width: 1040px;
+	height: 250px;
+	margin: -305px 140px;
+}
+
+div#juevesImg{
+	margin: 75px 770px;
+}
+
+div#jueves{
+	background-color: transparent;
+	width: 400px;
+	margin: -300px 300px;
+}
+
+div#juevesDes{
+	background-color: transparent;
+	width: 270px;
+	margin: 360px 300px;
+	font-size: 15px;
+}
+
+div#cViernes{
+	background-color: lightpink;
+	width: 1040px;
+	height: 250px;
+	margin: -320px 140px;
+}
+
+div#viernesImg{
+	margin: 80px 150px;
+}
+
+div#viernes{
+	background-color: transparent;
+	width: 600px;
+	margin: -300px 715px;
+}
+
+div#viernesDes{
+	background-color: transparent;
+	width: 300px;
+	margin: 360px 720px;
+	font-size: 15px;
+}
+
+
+div#cSabado{
+	background-color: white;
+	width: 1040px;
+	height: 250px;
+	margin: -275px 140px;
+}
+
+div#sabadoImg{
+	margin: 35px 770px;
+}
+
+div#sabado{
+	background-color: transparent;
+	width: 400px;
+	margin: -300px 300px;
+}
+
+div#sabadoDes{
+	background-color: transparent;
+	width: 270px;
+	margin: 360px 300px;
+	font-size: 15px;
+}
+
+
+div#cDomingo{
+	background-color: lightpink;
+	width: 1040px;
+	height: 250px;
+	margin: -325px 140px;
+}
+
+div#domingoImg{
+	margin: 80px 150px;
+}
+
+div#domingo{
+	background-color: transparent;
+	width: 600px;
+	margin: -300px 715px;
+}
+
+div#domingoDes{
+	background-color: transparent;
+	width: 300px;
+	margin: 360px 720px;
+	font-size: 15px;
+}
+
+div#pieTres{
+	background-color: whitesmoke;
+	width: 1300px;
+	height: 125px;
+	margin: -150px 1px;
+}
+
+div#circuloSiete{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: 65px 125px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloSiete:hover{
+	background-color: deeppink;
+}
+
+div#circuloOcho{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: -115px 226px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloOcho:hover{
+	background-color: deeppink;
+}
+
+div#circuloNueve{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: 65px 327px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloNueve:hover{
+	background-color: deeppink;
+}
+
+div#twitterTres{
+	margin: -105px 137px;
+	width: 50px;
+	height: 50px;
+
+}
+
+div#facebookTres{
+	margin: 55px 238px;
+	width: 50px;
+	height: 50px;
+}
+
+div#gmailTres{
+	margin: -105px 342px;
+	width: 50px;
+	height: 50px;
+}
+
+div#mas{
+	background-color:whitesmoke;
+	width: 270px;
+	margin: 30px 480px;
+}
+
+div#frecuentes{
+	background-color: whitesmoke;
+	width: 500px;
+	margin: -26px 480px; 
+}
+
+div#karenTres{
+	background-color:whitesmoke;
+	width: 130px;
+	margin: -95px 920px;
+	color: deeppink;
+	font-size: 15px;
+}
+
+div#materiaTres{
+	background-color:whitesmoke;
+	width: 300px;
+	margin: 110px 880px;
+}
+
+div#fesTres{
+	margin: -180px 1130px;
+}
+
+
+
+div#principalTres{
+	background-color: transparent;
+	width: 70px;
+	height: 20px;
+	margin: 60px 905px;
+}
+
+div#galeriaDos{
+	background-color:white;
+	width: 135px;
+	margin: 90px 110px;
+	color: deeppink;
+	font-size: 25px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+
+div#lugares{
+	background-color:white;
+	width: 190px;
+	height: 20px;
+	margin: -65px 550px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+div#cdmx{
+	margin: 130px 100px;
+}
+
+div#cdmxC{
+	background-color: lightpink;
+	width: 250px;
+	height: 60px;
+	margin: -135px 100px;
+}
+
+div#cdmxDes{
+	background-color: transparent;
+	width: 250px;
+	margin: 80px 90px;
+}
+
+div#cdmxFe{
+	background-color: transparent;
+	width: 250px;
+	margin: -75px 130px;
+	font-size: 10px;
+	color: white;
+}
+
+
+div#chinaImg{
+	margin: -243px 500px;
+}
+
+div#chinaC{
+	background-color: lightpink;
+	width: 253px;
+	height: 60px;
+	margin: 240px 500px;
+}
+
+div#china{
+	background-color: transparent;
+	width: 250px;
+	margin: -297px 490px;
+}
+
+div#chinaFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 300px 530px;
+	font-size: 10px;
+	color: white;
+}
+
+
+div#españaImg{
+	margin: -530px 900px;
+}
+
+div#españaC{
+	background-color: lightpink;
+	width: 250px;
+	height: 60px;
+	margin: 525px 900px;
+}
+
+div#españa{
+	background-color: transparent;
+	width: 250px;
+	margin: -580px 890px;
+}
+
+div#españaFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 580px 930px;
+	font-size: 10px;
+	color: white;
+}
+
+
+div#francia{
+	margin: -530px 100px;
+}
+
+div#franciaC{
+	background-color: white;
+	width: 250px;
+	height: 60px;
+	margin: 525px 100px;
+}
+
+div#franciaDes{
+	background-color: transparent;
+	width: 250px;
+	margin: -580px 90px;
+}
+
+div#franciaFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 580px 130px;
+	font-size: 10px;
+	color: grey;
+}
+
+
+div#japonImg{
+	margin: -805px 500px;
+}
+
+div#japonC{
+	background-color: white;
+	width: 253px;
+	height: 60px;
+	margin: 800px 500px;
+}
+
+div#japon{
+	background-color: transparent;
+	width: 250px;
+	margin: -855px 490px;
+}
+
+div#japonFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 855px 530px;
+	font-size: 10px;
+	color: grey;
+}
+
+
+div#yorkImg{
+	margin: -1080px 900px;
+}
+
+div#yorkC{
+	background-color: white;
+	width: 250px;
+	height: 60px;
+	margin: 1075px 900px;
+}
+
+div#york{
+	background-color: transparent;
+	width: 250px;
+	margin: -1130px 890px;
+}
+
+div#yorkFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 1130px 930px;
+	font-size: 10px;
+	color: grey;
+}
+
+
+div#eventos{
+	background-color:white;
+	width: 140px;
+	height: 20px;
+	margin: -1050px 550px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+
+div#bodaImg{
+	margin: 1100px 100px;
+}
+
+div#bodaC{
+	background-color: lightpink;
+	width: 250px;
+	height: 60px;
+	margin: -1105px 100px;
+}
+
+div#boda{
+	background-color: transparent;
+	width: 250px;
+	margin: 1050px 90px;
+}
+
+div#bodaFe{
+	background-color: transparent;
+	width: 250px;
+	margin: -1050px 130px;
+	font-size: 10px;
+	color: white;
+}
+
+
+div#bautizoImg{
+	margin: 820px 500px;
+}
+
+div#bautizoC{
+	background-color: lightpink;
+	width: 253px;
+	height: 60px;
+	margin: -825px 500px;
+}
+
+div#bautizo{
+	background-color: transparent;
+	width: 250px;
+	margin: 770px 490px;
+}
+
+div#bautizoFe{
+	background-color: transparent;
+	width: 250px;
+	margin: -770px 530px;
+	font-size: 10px;
+	color: white;
+}
+
+
+div#decoracionImg{
+	margin: 545px 900px;
+}
+
+div#decoracionC{
+	background-color: lightpink;
+	width: 250px;
+	height: 60px;
+	margin: -550px 900px;
+}
+
+div#decoracion{
+	background-color: transparent;
+	width: 250px;
+	margin: 495px 890px;
+}
+
+div#decoracionFe{
+	background-color: transparent;
+	width: 250px;
+	margin: -495px 930px;
+	font-size: 10px;
+	color: white;
+}
+
+
+div#clientes{
+	background-color:white;
+	width: 180px;
+	height: 20px;
+	margin: 580px 550px;
+	border-radius: 50px 50px 50px 50px;
+-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+border: 0px solid #000000;
+}
+
+div#chicasImg{
+	margin: -530px 100px;
+}
+
+div#chicasC{
+	background-color: white;
+	width: 250px;
+	height: 60px;
+	margin: 525px 100px;
+}
+
+div#chicas{
+	background-color: transparent;
+	width: 250px;
+	margin: -575px 90px;
+}
+
+div#chicasFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 575px 130px;
+	font-size: 10px;
+	color: grey;
+}
+
+
+div#bienvenidoImg{
+	margin: -805px 500px;
+}
+
+div#bienvenidoC{
+	background-color: white;
+	width: 253px;
+	height: 60px;
+	margin: 800px 500px;
+}
+
+div#bienvenido{
+	background-color: transparent;
+	width: 250px;
+	margin: -855px 490px;
+}
+
+div#bienvenidoFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 855px 530px;
+	font-size: 10px;
+	color: grey;
+}
+
+
+div#personalImg{
+	margin: -1080px 900px;
+}
+
+div#personalC{
+	background-color: white;
+	width: 250px;
+	height: 60px;
+	margin: 1075px 900px;
+}
+
+div#personal{
+	background-color: transparent;
+	width: 250px;
+	margin: -1130px 890px;
+}
+
+div#personalFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 1130px 930px;
+	font-size: 10px;
+	color: grey;
+}
+
+
+div#nocheImg{
+	margin: -1080px 100px;
+}
+
+div#nocheC{
+	background-color: lightpink;
+	width: 250px;
+	height: 60px;
+	margin: 1075px 100px;
+}
+
+div#noche{
+	background-color: transparent;
+	width: 250px;
+	margin: -1130px 90px;
+}
+
+div#nocheFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 1130px 130px;
+	font-size: 10px;
+	color: white;
+}
+
+
+div#servirImg{
+	margin: -1355px 500px;
+}
+
+div#servirC{
+	background-color: lightpink;
+	width: 253px;
+	height: 60px;
+	margin: 1350px 500px;
+}
+
+div#servir{
+	background-color: transparent;
+	width: 250px;
+	margin: -1405px 490px;
+}
+
+div#servirFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 1405px 530px;
+	font-size: 10px;
+	color: white;
+}
+
+
+div#cocinaImg{
+	margin: -1635px 900px;
+}
+
+div#cocinaC{
+	background-color: lightpink;
+	width: 250px;
+	height: 60px;
+	margin: 1630px 900px;
+}
+
+div#cocina{
+	background-color: transparent;
+	width: 250px;
+	margin: -1685px 890px;
+}
+
+div#cocinaFe{
+	background-color: transparent;
+	width: 250px;
+	margin: 1685px 930px;
+	font-size: 10px;
+	color: white;
+}
+
+
+div#pieCuatro{
+	background-color: whitesmoke;
+	width: 1300px;
+	height: 125px;
+	margin: -1520px 1px;
+}
+
+div#circuloDiez{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: 1430px 125px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloDiez:hover{
+	background-color: deeppink;
+}
+
+div#circuloOnce{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: -1480px 226px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloOnce:hover{
+	background-color: deeppink;
+}
+
+div#circuloDoce{
+	background-color: lightgrey;
+	width: 50px;
+	height: 50px;
+	display: flex;	
+	margin: 1430px 327px;
+	border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 7px none #000000;
+}
+
+div#circuloDoce:hover{
+	background-color: deeppink;
+}
+
+div#twitterCuatro{
+	margin: -1470px 137px;
+	width: 50px;
+	height: 50px;
+
+}
+
+div#facebookCuatro{
+	margin: 1420px 238px;
+	width: 50px;
+	height: 50px;
+}
+
+div#gmailCuatro{
+	margin: -1470px 342px;
+	width: 50px;
+	height: 50px;
+}
+
+div#aparta{
+	background-color:whitesmoke;
+	width: 290px;
+	margin: 1410px 480px;
+}
+
+div#comparte{
+	background-color: whitesmoke;
+	width: 500px;
+	margin: -1380px 480px; 
+}
+
+div#karenCuatro{
+	background-color:whitesmoke;
+	width: 130px;
+	margin: 1310px 920px;
+	color: deeppink;
+	font-size: 15px;
+}
+
+div#materiaCuatro{
+	background-color:whitesmoke;
+	width: 300px;
+	margin: -1300px 880px;
+}
+
+div#fesCuatro{
+	margin: 1235px 1130px;
+}
+
+
+
+
